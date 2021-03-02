@@ -1,4 +1,4 @@
-# Simple Multi-Threading Program
+# Simple Multithreading Program
 
 A **simple C++ multithreading program** to establish how the process of threading works. Used the `<thread>` header file to access threading functionality.
 
