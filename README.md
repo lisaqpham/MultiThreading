@@ -8,17 +8,17 @@ Note that the output is not static, and is meant to differ each time ran dependi
 
 **Sample Output:**
 
-MarcoPolo
-MarcoPolo
-MarcoPolo
-MarcoPolo
-MarcoPolo
-MarcoPolo
-MarcoPolo
-Polo
-MarcoPolo
-MarcoPolo
-MarcoThat's all folks
+MarcoPolo  
+MarcoPolo  
+MarcoPolo  
+MarcoPolo  
+MarcoPolo  
+MarcoPolo  
+MarcoPolo  
+Polo  
+MarcoPolo  
+MarcoPolo  
+MarcoThat's all folks  
 
 ## Identifying Information
 
